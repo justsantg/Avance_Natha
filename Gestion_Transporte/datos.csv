@@ -1,0 +1,301 @@
+id_transporte,tipo_carga,origen,destino,fecha_salida,fecha_llegada,empresa_transportadora,costo_transporte,conductor,estado_entrega
+1,Gases,Medellín,Cali,2025-04-04,2025-04-06,LogiTruck,280998,Fabián Álvaro Díaz Triana,en tránsito
+2,Alimentos,Barranquilla,Bucaramanga,2025-02-07,2025-02-10,CargaExpress,391666,Cristian Manrique,cancelado
+3,Alimentos,Cali,Bogotá,2025-01-28,2025-01-31,CargaExpress,269776,Yamid Carlos Sierra Rojas,en tránsito
+4,Alimentos,Bogotá,Barranquilla,2024-12-02,2024-12-03,LogiTruck,394093,Blanca Romero Amaya,entregado
+5,Sólidos,Barranquilla,Bogotá,2025-01-01,2025-01-06,LogiTruck,175691,Consuelo Astrid Rosero,cancelado
+6,Electrónicos,Cali,Bogotá,2025-01-27,2025-01-31,EnvioYA,394650,Cristian Wilson Ceballos Morales,cancelado
+7,Gases,Bucaramanga,Medellín,2025-01-12,2025-01-13,CargaExpress,266993,Laura Rincón,en tránsito
+8,Líquidos,Bogotá,Medellín,2025-01-12,2025-01-13,EnvioYA,212254,Augusto Barrera Toro,en tránsito
+9,Electrónicos,Bucaramanga,Medellín,2025-04-07,2025-04-12,EnvioYA,482006,Sara Esperanza Amaya,en tránsito
+10,Electrónicos,Cali,Barranquilla,2025-03-24,2025-03-29,TransCarga,165492,Fernando Armando Barragán,cancelado
+11,Alimentos,Bucaramanga,Bogotá,2025-04-19,2025-04-23,TransCarga,439410,Martha Muñoz Osorio,entregado
+12,Sólidos,Bucaramanga,Medellín,2025-02-23,2025-02-24,CargaExpress,320864,Angie Martínez Valencia,cancelado
+13,Alimentos,Cartagena,Barranquilla,2025-03-28,2025-03-31,EnvioYA,495358,Óscar Bedoya Erazo,en tránsito
+14,Sólidos,Medellín,Bogotá,2025-03-12,2025-03-14,EnvioYA,413514,Ferney Enrique González González,en tránsito
+15,Sólidos,Cartagena,Bogotá,2025-04-15,2025-04-16,CargaExpress,162087,Alfonso García,cancelado
+16,Gases,Cali,Barranquilla,2024-11-23,2024-11-28,EnvioYA,240640,Pablo Quintero Aguilar,en tránsito
+17,Alimentos,Barranquilla,Medellín,2025-03-20,2025-03-25,LogiTruck,219311,Sandra Rivera García,entregado
+18,Electrónicos,Medellín,Cartagena,2025-04-30,2025-05-03,EnvioYA,342669,María Alicia Benavides,cancelado
+19,Sólidos,Bucaramanga,Barranquilla,2025-01-10,2025-01-11,LogiTruck,216313,Isabel Ramírez,entregado
+20,Alimentos,Bucaramanga,Barranquilla,2024-11-25,2024-11-28,TransCarga,348952,Milton Pérez Sierra,entregado
+21,Alimentos,Bucaramanga,Cali,2025-05-07,2025-05-11,CargaExpress,399676,Jorge Edgar Vargas,entregado
+22,Alimentos,Barranquilla,Cartagena,2025-02-12,2025-02-13,EnvioYA,303653,María Barreto Caicedo,entregado
+23,Alimentos,Cali,Cartagena,2025-03-31,2025-04-05,EnvioYA,141347,María Vergara,en tránsito
+24,Electrónicos,Medellín,Cali,2025-03-10,2025-03-15,FastCargo,224175,Luz Moreno,en tránsito
+25,Gases,Cali,Medellín,2024-12-18,2024-12-19,TransCarga,299892,Brayan Bedoya,entregado
+26,Sólidos,Cartagena,Cali,2025-02-21,2025-02-23,TransCarga,334720,Gabriela Carolina Cárdenas Riascos,entregado
+27,Alimentos,Cartagena,Cali,2024-12-05,2024-12-06,EnvioYA,188492,Miguel Sergio García,en tránsito
+28,Gases,Bogotá,Cali,2025-04-10,2025-04-11,TransCarga,430648,Carlos Becerra Sánchez,en tránsito
+29,Electrónicos,Bogotá,Cartagena,2025-01-11,2025-01-13,FastCargo,287188,Marlene Daniela Galvis,en tránsito
+30,Sólidos,Barranquilla,Cartagena,2025-03-01,2025-03-02,CargaExpress,115866,Marina Eliana Buitrago Gómez,entregado
+31,Líquidos,Bucaramanga,Bogotá,2025-02-10,2025-02-14,TransCarga,211680,Cristian Sebastián Fuentes Rojas,cancelado
+32,Alimentos,Cartagena,Bogotá,2025-02-15,2025-02-19,EnvioYA,361849,Fernando Jefferson Orozco,cancelado
+33,Gases,Bucaramanga,Bogotá,2024-12-03,2024-12-04,LogiTruck,90421,Manuela Delgado,cancelado
+34,Líquidos,Medellín,Bogotá,2025-02-05,2025-02-06,EnvioYA,211009,Edgar Valencia Ortiz,entregado
+35,Sólidos,Cartagena,Bogotá,2025-02-07,2025-02-08,CargaExpress,490297,Margarita Blanco,entregado
+36,Líquidos,Medellín,Barranquilla,2025-02-04,2025-02-05,FastCargo,163212,Yohana Lucía Villamil Agudelo,entregado
+37,Electrónicos,Cartagena,Bucaramanga,2025-04-18,2025-04-23,LogiTruck,435613,Fernanda Claudia Mosquera Martínez,en tránsito
+38,Alimentos,Bucaramanga,Bogotá,2025-04-25,2025-04-29,FastCargo,189624,Elena Yolanda Vega,en tránsito
+39,Sólidos,Bogotá,Medellín,2025-03-31,2025-04-04,EnvioYA,488192,Alberto Andrés García,cancelado
+40,Alimentos,Cartagena,Barranquilla,2025-01-01,2025-01-02,LogiTruck,215003,Patricia Bernal,en tránsito
+41,Alimentos,Barranquilla,Bogotá,2025-03-30,2025-04-02,FastCargo,366187,Paula Doris Rodríguez Valencia,en tránsito
+42,Alimentos,Bucaramanga,Bogotá,2024-12-23,2024-12-25,TransCarga,211027,Francisco Meneses Ordóñez,cancelado
+43,Alimentos,Cartagena,Bogotá,2025-01-13,2025-01-15,EnvioYA,419803,Luis Bautista Hernández,cancelado
+44,Gases,Medellín,Bucaramanga,2025-04-05,2025-04-07,CargaExpress,388098,Gloria Blanca Rodríguez,cancelado
+45,Alimentos,Cartagena,Barranquilla,2024-12-04,2024-12-06,LogiTruck,254261,Esther Fanny Ávila García,entregado
+46,Sólidos,Bogotá,Medellín,2024-11-17,2024-11-18,FastCargo,125373,María Moreno,entregado
+47,Sólidos,Cali,Bogotá,2025-02-02,2025-02-03,TransCarga,249857,Daniel Fernando López Blanco,entregado
+48,Electrónicos,Bucaramanga,Cartagena,2025-03-01,2025-03-03,TransCarga,423835,Gloria Patiño,cancelado
+49,Gases,Cali,Bucaramanga,2025-03-05,2025-03-10,LogiTruck,301442,Juan Soto,cancelado
+50,Alimentos,Barranquilla,Cartagena,2025-04-25,2025-04-29,LogiTruck,373120,Martha Vargas Velasco,en tránsito
+51,Alimentos,Barranquilla,Bogotá,2024-12-02,2024-12-07,TransCarga,252542,Orlando Andrés Vallejo Cárdenas,en tránsito
+52,Sólidos,Cali,Medellín,2025-04-08,2025-04-13,TransCarga,462837,Andrea Cortés,cancelado
+53,Gases,Bogotá,Cartagena,2025-01-20,2025-01-25,EnvioYA,491372,Dubán Castro,entregado
+54,Electrónicos,Cali,Barranquilla,2025-02-20,2025-02-24,LogiTruck,314328,Cecilia Toro Jiménez,en tránsito
+55,Líquidos,Barranquilla,Cali,2024-11-19,2024-11-24,EnvioYA,300455,Rosa Cantillo,entregado
+56,Líquidos,Barranquilla,Cali,2025-02-08,2025-02-09,EnvioYA,234942,Martha Aura Contreras,cancelado
+57,Electrónicos,Medellín,Barranquilla,2024-11-17,2024-11-18,LogiTruck,191854,Álvaro Benítez Narváez,entregado
+58,Líquidos,Cartagena,Barranquilla,2024-11-16,2024-11-19,CargaExpress,396811,Ofelia Estela Espinosa,en tránsito
+59,Sólidos,Medellín,Cartagena,2025-02-05,2025-02-06,LogiTruck,212986,Patricia Yamile Álvarez Camacho,en tránsito
+60,Gases,Cartagena,Medellín,2025-02-18,2025-02-22,EnvioYA,160120,Diana Fernanda Ospino Vélez,entregado
+61,Sólidos,Cartagena,Bogotá,2025-02-26,2025-03-01,TransCarga,185235,Nancy Hoyos,cancelado
+62,Líquidos,Medellín,Cartagena,2025-03-03,2025-03-04,FastCargo,181750,Eliana María Delgado Castro,cancelado
+63,Gases,Cali,Barranquilla,2025-01-27,2025-01-28,TransCarga,90464,Diego Guevara Montoya,en tránsito
+64,Líquidos,Barranquilla,Cartagena,2025-03-12,2025-03-14,EnvioYA,203788,Isabel García,cancelado
+65,Gases,Cartagena,Medellín,2025-02-04,2025-02-06,FastCargo,300863,Augusto Díaz Gómez,en tránsito
+66,Electrónicos,Cartagena,Barranquilla,2025-03-28,2025-04-02,FastCargo,214329,Yenifer Paola Alarcón,entregado
+67,Gases,Barranquilla,Bucaramanga,2025-01-11,2025-01-14,EnvioYA,453803,Valentina Esperanza Caro León,entregado
+68,Electrónicos,Barranquilla,Bogotá,2025-01-25,2025-01-26,CargaExpress,285383,Esmeralda Lorena Montoya Daza,en tránsito
+69,Alimentos,Bogotá,Cartagena,2024-12-21,2024-12-24,LogiTruck,122208,Santiago Gómez Jiménez,en tránsito
+70,Gases,Cali,Barranquilla,2024-11-12,2024-11-16,TransCarga,377096,Gerardo Rivera,entregado
+71,Electrónicos,Bogotá,Cartagena,2024-12-22,2024-12-25,EnvioYA,129148,Guillermo Manuel Cerón,cancelado
+72,Gases,Bogotá,Cartagena,2024-12-13,2024-12-14,FastCargo,338706,Eduardo Juan Figueroa,en tránsito
+73,Líquidos,Bogotá,Bucaramanga,2025-03-07,2025-03-08,TransCarga,360470,Juan Muñoz Ortega,cancelado
+74,Electrónicos,Barranquilla,Cartagena,2024-11-25,2024-11-29,CargaExpress,499507,Jacqueline Gómez,cancelado
+75,Alimentos,Medellín,Bucaramanga,2024-11-13,2024-11-15,CargaExpress,373300,Carlos Muñoz,cancelado
+76,Alimentos,Cartagena,Barranquilla,2025-03-05,2025-03-09,CargaExpress,290789,Marta Damaris Ardila Duarte,en tránsito
+77,Líquidos,Bucaramanga,Medellín,2024-11-13,2024-11-16,FastCargo,394747,Edith Martha Sandoval,cancelado
+78,Líquidos,Bucaramanga,Cartagena,2025-03-23,2025-03-27,FastCargo,351129,Olga Luz Rueda,en tránsito
+79,Gases,Cartagena,Cali,2025-01-28,2025-02-02,LogiTruck,161202,Patricia Montoya,entregado
+80,Electrónicos,Cali,Bucaramanga,2025-03-29,2025-04-03,TransCarga,247283,Claudia María Zambrano Velásquez,en tránsito
+81,Gases,Barranquilla,Bucaramanga,2025-02-22,2025-02-23,TransCarga,208983,Erika Fernanda Fonseca Cifuentes,entregado
+82,Sólidos,Medellín,Cartagena,2024-12-30,2025-01-03,EnvioYA,324850,Nohora Rosa García,cancelado
+83,Líquidos,Bogotá,Bucaramanga,2024-11-13,2024-11-17,EnvioYA,303630,Luz Edilma Gutiérrez,en tránsito
+84,Gases,Cartagena,Cali,2024-11-28,2024-12-01,LogiTruck,324907,Jesús Londoño Vega,cancelado
+85,Líquidos,Bucaramanga,Medellín,2025-02-24,2025-02-27,LogiTruck,319520,Carlos David Blanco Gutiérrez,entregado
+86,Sólidos,Bogotá,Bucaramanga,2025-05-06,2025-05-07,LogiTruck,321907,Yina Díaz,cancelado
+87,Gases,Barranquilla,Bogotá,2025-05-01,2025-05-03,EnvioYA,312154,Liliana Yuri Torres,entregado
+88,Electrónicos,Bogotá,Cartagena,2025-03-03,2025-03-07,TransCarga,404199,Diego Santos Díaz,en tránsito
+89,Electrónicos,Barranquilla,Cartagena,2025-01-29,2025-01-31,TransCarga,374341,Carlos Alvarado Gómez,en tránsito
+90,Sólidos,Barranquilla,Medellín,2024-11-09,2024-11-14,CargaExpress,495516,María Paola Flórez,en tránsito
+91,Gases,Cartagena,Barranquilla,2025-01-05,2025-01-07,FastCargo,95980,David Díaz Ávila,en tránsito
+92,Alimentos,Barranquilla,Medellín,2025-01-18,2025-01-21,LogiTruck,414962,Eduardo Ortiz Montes,cancelado
+93,Electrónicos,Cali,Cartagena,2025-03-08,2025-03-11,FastCargo,223963,John Rojas,cancelado
+94,Sólidos,Cartagena,Medellín,2025-02-25,2025-02-26,LogiTruck,409624,Yesid David Ruiz Hernández,en tránsito
+95,Alimentos,Bogotá,Barranquilla,2024-11-20,2024-11-23,LogiTruck,423078,Sandra Cristina García Flórez,cancelado
+96,Líquidos,Cartagena,Medellín,2025-03-03,2025-03-05,LogiTruck,165487,Jhon Martínez Giraldo,cancelado
+97,Alimentos,Barranquilla,Cartagena,2024-11-13,2024-11-18,EnvioYA,466324,Dina María Martínez Fajardo,entregado
+98,Alimentos,Medellín,Bogotá,2025-02-02,2025-02-07,EnvioYA,236683,José Didier Molina Acosta,cancelado
+99,Electrónicos,Bogotá,Medellín,2024-12-09,2024-12-11,CargaExpress,281069,Enrique Alberto Palacio,cancelado
+100,Líquidos,Cartagena,Bogotá,2025-01-26,2025-01-30,EnvioYA,400818,Carmen Ardila,en tránsito
+101,Gases,Medellín,Bogotá,2025-01-14,2025-01-18,LogiTruck,341786,Andrés Romero Camargo,cancelado
+102,Líquidos,Bucaramanga,Bogotá,2025-04-21,2025-04-25,EnvioYA,211088,Camilo Hernández Velasco,entregado
+103,Gases,Cali,Bucaramanga,2025-04-12,2025-04-14,CargaExpress,117230,Nelly Liceth Becerra,cancelado
+104,Gases,Barranquilla,Medellín,2024-12-07,2024-12-10,EnvioYA,264346,Camilo Óscar Soto,entregado
+105,Líquidos,Bucaramanga,Cali,2025-02-08,2025-02-12,TransCarga,342580,Edith Elsy Sánchez Hurtado,en tránsito
+106,Electrónicos,Cali,Bucaramanga,2025-01-22,2025-01-26,TransCarga,481022,María María Rodríguez Moreno,entregado
+107,Sólidos,Medellín,Bogotá,2025-03-22,2025-03-25,FastCargo,408706,Lorena Liliana Ruiz,en tránsito
+108,Electrónicos,Bogotá,Barranquilla,2025-01-16,2025-01-21,LogiTruck,279344,Marina González Valencia,cancelado
+109,Gases,Bogotá,Cali,2025-01-26,2025-01-27,FastCargo,297395,María Bolívar,en tránsito
+110,Líquidos,Cali,Medellín,2025-04-11,2025-04-12,TransCarga,133066,Andrea Amparo Vanegas,en tránsito
+111,Sólidos,Medellín,Bogotá,2025-05-04,2025-05-07,CargaExpress,246187,Yésica Molina Rendón,entregado
+112,Líquidos,Bucaramanga,Bogotá,2025-01-20,2025-01-21,LogiTruck,137327,Luz María Yepes Henao,cancelado
+113,Gases,Barranquilla,Bucaramanga,2025-03-19,2025-03-21,FastCargo,136421,Isabel Alba Jiménez,cancelado
+114,Sólidos,Bucaramanga,Medellín,2025-04-07,2025-04-08,EnvioYA,183055,Fernando Alonso Sánchez Cárdenas,cancelado
+115,Sólidos,Barranquilla,Bucaramanga,2025-04-29,2025-04-30,CargaExpress,250194,Sandra Torres Bedoya,en tránsito
+116,Líquidos,Cali,Bogotá,2024-12-08,2024-12-12,LogiTruck,298180,Luis Edinson Velásquez Díaz,en tránsito
+117,Alimentos,Bucaramanga,Bogotá,2025-02-19,2025-02-20,FastCargo,175556,Milton Bejarano,entregado
+118,Alimentos,Bogotá,Barranquilla,2025-04-19,2025-04-23,FastCargo,459870,Alejandra Giraldo Rodríguez,en tránsito
+119,Gases,Cartagena,Cali,2025-01-30,2025-02-01,EnvioYA,419611,Luis Juan López,entregado
+120,Electrónicos,Cartagena,Cali,2025-05-05,2025-05-10,FastCargo,326969,Orlando Steven García,entregado
+121,Electrónicos,Bogotá,Bucaramanga,2024-12-25,2024-12-29,FastCargo,106106,Liseth Yolanda Vega,en tránsito
+122,Gases,Cartagena,Cali,2025-02-08,2025-02-10,CargaExpress,480023,Mario Sánchez,entregado
+123,Líquidos,Barranquilla,Medellín,2025-01-25,2025-01-26,LogiTruck,318812,Yéssica Durán,cancelado
+124,Electrónicos,Medellín,Bucaramanga,2024-11-20,2024-11-23,CargaExpress,299988,Manuel Miguel Sánchez Solano,entregado
+125,Alimentos,Cartagena,Barranquilla,2025-04-06,2025-04-08,CargaExpress,167466,Viviana Navarro,en tránsito
+126,Electrónicos,Bogotá,Barranquilla,2024-11-26,2024-11-28,CargaExpress,115112,Ana Camila Méndez Ortiz,cancelado
+127,Líquidos,Bogotá,Medellín,2025-03-21,2025-03-25,LogiTruck,405774,Rosario Zulma Pérez Torres,entregado
+128,Sólidos,Barranquilla,Medellín,2024-12-17,2024-12-18,LogiTruck,228743,Clemencia María Parra Sánchez,entregado
+129,Electrónicos,Medellín,Cali,2025-03-31,2025-04-01,TransCarga,433381,Gustavo Londoño Vega,cancelado
+130,Electrónicos,Cartagena,Bogotá,2024-11-25,2024-11-30,FastCargo,242869,Brayan Parra Carrillo,cancelado
+131,Gases,Medellín,Cali,2025-04-04,2025-04-05,EnvioYA,107369,Juan León Rodríguez Leal,cancelado
+132,Gases,Bogotá,Bucaramanga,2024-11-18,2024-11-22,EnvioYA,466493,Fernanda Rincón,cancelado
+133,Electrónicos,Bogotá,Medellín,2025-04-23,2025-04-27,TransCarga,452654,Esther Granados,cancelado
+134,Gases,Medellín,Bucaramanga,2024-11-14,2024-11-19,CargaExpress,387232,Valentina María Carrillo,en tránsito
+135,Sólidos,Cartagena,Barranquilla,2025-02-06,2025-02-07,EnvioYA,266588,Tatiana Duque Ibarra,cancelado
+136,Alimentos,Bucaramanga,Bogotá,2024-11-27,2024-11-30,CargaExpress,406903,Víctor Monroy Niño,en tránsito
+137,Gases,Bogotá,Medellín,2025-03-02,2025-03-05,CargaExpress,283045,David Valencia,cancelado
+138,Gases,Cali,Barranquilla,2024-11-15,2024-11-19,CargaExpress,465650,Carlos Alexander Zuluaga,entregado
+139,Líquidos,Cali,Medellín,2025-01-24,2025-01-27,TransCarga,373377,Daniela Consuelo Ríos,en tránsito
+140,Sólidos,Barranquilla,Cartagena,2025-01-24,2025-01-29,CargaExpress,468358,Edilma Patricia Durán,entregado
+141,Alimentos,Cartagena,Cali,2025-01-10,2025-01-14,LogiTruck,383215,Antonio Martínez Ruiz,en tránsito
+142,Líquidos,Cali,Bucaramanga,2024-12-04,2024-12-06,CargaExpress,467901,Fernando Paul Rojas Rangel,cancelado
+143,Sólidos,Cartagena,Medellín,2025-02-12,2025-02-13,FastCargo,348945,Fredy Hernández,entregado
+144,Gases,Cali,Barranquilla,2025-03-02,2025-03-05,TransCarga,167926,Judith Andrea Ávila Moreno,entregado
+145,Gases,Bogotá,Cali,2024-11-20,2024-11-24,CargaExpress,440752,Marcela Andrea Fernández,en tránsito
+146,Gases,Barranquilla,Medellín,2024-12-27,2025-01-01,FastCargo,476174,María Carmen Álvarez,entregado
+147,Sólidos,Bucaramanga,Barranquilla,2025-02-17,2025-02-19,FastCargo,176749,Ana Anaya Marín,cancelado
+148,Líquidos,Cartagena,Medellín,2025-02-13,2025-02-17,EnvioYA,157459,Henry Meneses Galindo,entregado
+149,Líquidos,Barranquilla,Medellín,2025-02-05,2025-02-07,TransCarga,266509,Carlos Gerardo Bustamante,entregado
+150,Alimentos,Barranquilla,Cali,2025-02-07,2025-02-08,LogiTruck,96774,José Eduardo Ramos Jiménez,en tránsito
+151,Electrónicos,Bogotá,Medellín,2025-04-06,2025-04-07,LogiTruck,105473,Diego Morales Vásquez,entregado
+152,Gases,Barranquilla,Cali,2025-04-14,2025-04-18,EnvioYA,356537,Valentina Dayana Gutiérrez,cancelado
+153,Gases,Bogotá,Cali,2025-03-22,2025-03-23,FastCargo,186628,Antonio Palacios,en tránsito
+154,Alimentos,Cali,Medellín,2025-01-05,2025-01-10,CargaExpress,147177,Gloria Ceballos,entregado
+155,Electrónicos,Cartagena,Barranquilla,2025-02-11,2025-02-13,EnvioYA,188790,Carmen Marcela Arias,entregado
+156,Sólidos,Bucaramanga,Cali,2025-03-02,2025-03-06,CargaExpress,105051,Juan Manuel López Molina,entregado
+157,Líquidos,Bucaramanga,Cartagena,2024-12-18,2024-12-21,EnvioYA,177724,José Rodríguez,entregado
+158,Líquidos,Cali,Bucaramanga,2025-02-05,2025-02-06,LogiTruck,85910,José Omar Restrepo,cancelado
+159,Alimentos,Cali,Bogotá,2024-11-21,2024-11-25,CargaExpress,472966,Estefanía Marcela Pérez Torres,entregado
+160,Sólidos,Cartagena,Bucaramanga,2025-04-01,2025-04-03,LogiTruck,318486,Reinaldo Rodríguez,en tránsito
+161,Alimentos,Cartagena,Bogotá,2025-01-09,2025-01-13,FastCargo,313699,Francisco Cortés Gómez,cancelado
+162,Líquidos,Bucaramanga,Cali,2025-02-08,2025-02-09,EnvioYA,155368,María María Rojas Agudelo,cancelado
+163,Líquidos,Cartagena,Bogotá,2025-02-11,2025-02-16,EnvioYA,232710,Alfonso García Galindo,en tránsito
+164,Sólidos,Cali,Bogotá,2025-03-09,2025-03-10,TransCarga,139196,Mary Álvarez Salazar,cancelado
+165,Electrónicos,Medellín,Barranquilla,2024-12-04,2024-12-08,FastCargo,363935,Arturo Chacón Ballesteros,en tránsito
+166,Gases,Barranquilla,Cartagena,2025-01-05,2025-01-10,EnvioYA,123115,Antonio Arnulfo Aguilar Melo,cancelado
+167,Alimentos,Barranquilla,Medellín,2025-03-30,2025-04-02,LogiTruck,474979,Andrés Fernando Gómez Ballesteros,entregado
+168,Líquidos,Barranquilla,Cali,2025-05-04,2025-05-08,CargaExpress,303912,Ángela Martha Ospino,entregado
+169,Líquidos,Medellín,Cartagena,2024-11-07,2024-11-11,LogiTruck,434253,Valentina Rodríguez Sánchez,entregado
+170,Sólidos,Bogotá,Bucaramanga,2025-03-29,2025-03-31,LogiTruck,116628,Víctor Gómez,en tránsito
+171,Alimentos,Cartagena,Cali,2024-12-24,2024-12-29,EnvioYA,443762,Walter Fredy Mora Quiroga,cancelado
+172,Alimentos,Bogotá,Medellín,2024-12-11,2024-12-12,FastCargo,450802,Neider Barbosa,cancelado
+173,Gases,Bucaramanga,Barranquilla,2024-11-20,2024-11-24,FastCargo,186462,Inés Montoya,en tránsito
+174,Sólidos,Cartagena,Barranquilla,2025-03-12,2025-03-13,CargaExpress,222653,Mercedes Nelly Velásquez,en tránsito
+175,Líquidos,Bogotá,Barranquilla,2025-04-02,2025-04-04,EnvioYA,128377,Diana Constanza Fonseca,entregado
+176,Electrónicos,Bucaramanga,Cali,2024-12-24,2024-12-25,FastCargo,337363,María Sánchez Arias,cancelado
+177,Líquidos,Medellín,Barranquilla,2025-04-01,2025-04-03,TransCarga,369181,Margarita Ortega,entregado
+178,Sólidos,Bogotá,Cartagena,2025-03-28,2025-03-30,LogiTruck,339679,Lorena Velasco,en tránsito
+179,Sólidos,Cartagena,Barranquilla,2024-11-27,2024-11-29,CargaExpress,265376,Juan Jorge Rengifo,entregado
+180,Sólidos,Cali,Barranquilla,2025-03-28,2025-04-02,LogiTruck,200746,Edinson Javier Valencia,en tránsito
+181,Sólidos,Medellín,Bucaramanga,2025-03-08,2025-03-10,CargaExpress,299726,María Hoyos Contreras,entregado
+182,Electrónicos,Bogotá,Medellín,2024-11-08,2024-11-11,EnvioYA,109067,Jaime Javier Guerrero,entregado
+183,Electrónicos,Medellín,Cartagena,2024-12-31,2025-01-04,TransCarga,436076,Catalina Bustos Mosquera,en tránsito
+184,Líquidos,Medellín,Cartagena,2025-01-19,2025-01-23,FastCargo,105017,Dina Espinosa Ordóñez,cancelado
+185,Líquidos,Cartagena,Bucaramanga,2025-03-10,2025-03-15,TransCarga,155019,Luz Castro Bastidas,entregado
+186,Electrónicos,Cali,Medellín,2024-11-28,2024-11-30,TransCarga,151011,César Navarro,cancelado
+187,Gases,Cali,Medellín,2025-03-14,2025-03-17,CargaExpress,188937,José León,entregado
+188,Alimentos,Bogotá,Cartagena,2025-03-04,2025-03-05,LogiTruck,429899,Mercedes García,entregado
+189,Alimentos,Bucaramanga,Cartagena,2025-04-14,2025-04-18,TransCarga,445585,Steven Pardo,cancelado
+190,Gases,Cali,Barranquilla,2024-12-05,2024-12-09,TransCarga,391159,Gabriel Rojas Camacho,cancelado
+191,Gases,Bucaramanga,Medellín,2025-03-08,2025-03-13,FastCargo,429563,Germán Pérez,cancelado
+192,Gases,Cali,Bogotá,2025-04-13,2025-04-16,FastCargo,297193,Xiomara Paula Ayala Méndez,cancelado
+193,Líquidos,Bucaramanga,Medellín,2025-03-17,2025-03-22,FastCargo,108598,Danilo Vladimir Hurtado Cabrera,en tránsito
+194,Electrónicos,Bogotá,Medellín,2025-02-24,2025-02-27,LogiTruck,138044,Néstor Erick Rojas Suárez,cancelado
+195,Sólidos,Bucaramanga,Bogotá,2025-03-09,2025-03-11,FastCargo,421223,María Fanny Álvarez Londoño,entregado
+196,Sólidos,Medellín,Bucaramanga,2025-02-14,2025-02-18,FastCargo,154709,Cecilia Acevedo,entregado
+197,Líquidos,Barranquilla,Bogotá,2025-01-05,2025-01-06,EnvioYA,466497,Fernando González Gutiérrez,entregado
+198,Líquidos,Bucaramanga,Cali,2025-03-14,2025-03-15,EnvioYA,374187,Diana Paola Álvarez,en tránsito
+199,Alimentos,Cali,Barranquilla,2024-12-02,2024-12-05,EnvioYA,403497,Bibiana Dayana Manrique,cancelado
+200,Alimentos,Cali,Cartagena,2024-12-22,2024-12-23,FastCargo,223193,Juan Ayala Torres,en tránsito
+201,Sólidos,Bogotá,Barranquilla,2025-01-22,2025-01-26,CargaExpress,349972,Elena Luz Guzmán Salamanca,cancelado
+202,Alimentos,Barranquilla,Cali,2025-05-07,2025-05-12,EnvioYA,416402,Marlon Francisco Vega,cancelado
+203,Electrónicos,Cartagena,Bucaramanga,2025-04-25,2025-04-27,CargaExpress,335992,Leidy Pabón Vega,cancelado
+204,Alimentos,Medellín,Barranquilla,2025-02-08,2025-02-13,FastCargo,465293,Julieth Esperanza Hernández,cancelado
+205,Líquidos,Cali,Cartagena,2025-02-19,2025-02-24,EnvioYA,420366,Elena Sánchez Quintero,en tránsito
+206,Sólidos,Bucaramanga,Medellín,2025-02-23,2025-02-27,FastCargo,120428,Eliecer Ávila Ramírez,entregado
+207,Electrónicos,Bucaramanga,Cartagena,2025-04-10,2025-04-14,FastCargo,229041,Erika Ramos Melo,en tránsito
+208,Alimentos,Cartagena,Medellín,2025-01-13,2025-01-14,TransCarga,133127,Lucila Inés Díaz,entregado
+209,Sólidos,Medellín,Bucaramanga,2025-04-27,2025-04-29,EnvioYA,195547,Carolina Libia Correa Fajardo,entregado
+210,Alimentos,Barranquilla,Bucaramanga,2025-01-21,2025-01-25,TransCarga,99087,Camila Patricia Martínez Ríos,entregado
+211,Sólidos,Cartagena,Cali,2025-02-19,2025-02-22,TransCarga,481576,Marlene Páez Salcedo,entregado
+212,Electrónicos,Barranquilla,Bucaramanga,2025-03-03,2025-03-07,TransCarga,159255,Fernando Sánchez,entregado
+213,Electrónicos,Cali,Bucaramanga,2025-04-17,2025-04-22,TransCarga,300797,Carolina Jessica Jiménez,cancelado
+214,Electrónicos,Bogotá,Cali,2025-02-15,2025-02-16,TransCarga,182825,Lida Miriam Fernández Herrera,entregado
+215,Sólidos,Medellín,Bogotá,2024-12-17,2024-12-19,EnvioYA,206839,Katherine Yuli Ibarra,entregado
+216,Alimentos,Barranquilla,Bogotá,2025-04-25,2025-04-28,LogiTruck,392727,Junior Palacio,cancelado
+217,Sólidos,Cali,Barranquilla,2024-12-12,2024-12-14,CargaExpress,213797,Katerine Rocío Jiménez Ospina,cancelado
+218,Alimentos,Bogotá,Cali,2025-02-22,2025-02-25,TransCarga,416337,Marcela Pulido,en tránsito
+219,Líquidos,Bucaramanga,Medellín,2025-01-25,2025-01-27,LogiTruck,310883,Armando Mosquera Ayala,en tránsito
+220,Gases,Medellín,Barranquilla,2025-03-24,2025-03-25,FastCargo,324208,Antonio David Montes Pulido,entregado
+221,Gases,Cali,Barranquilla,2025-04-09,2025-04-14,FastCargo,98523,Jairo Wilmer Torres,entregado
+222,Electrónicos,Barranquilla,Bogotá,2025-03-01,2025-03-04,TransCarga,345823,Elizabeth Lucía Ayala,en tránsito
+223,Sólidos,Bogotá,Cartagena,2025-03-08,2025-03-12,CargaExpress,288146,José Carlos Hernández,entregado
+224,Gases,Cartagena,Medellín,2025-02-18,2025-02-19,LogiTruck,395857,Johana Forero Jaimes,entregado
+225,Sólidos,Medellín,Cali,2025-03-30,2025-04-04,TransCarga,487649,Carlos Pérez,entregado
+226,Líquidos,Cartagena,Barranquilla,2024-11-27,2024-12-01,CargaExpress,209875,Sara Johanna Rojas,entregado
+227,Electrónicos,Cali,Bucaramanga,2024-11-20,2024-11-25,EnvioYA,174945,Jeisson José Reyes Martínez,entregado
+228,Sólidos,Cartagena,Medellín,2025-04-25,2025-04-26,FastCargo,476509,Nelcy Sonia Herrera,en tránsito
+229,Alimentos,Bogotá,Medellín,2025-03-14,2025-03-19,LogiTruck,268107,Martha Mejía Zambrano,en tránsito
+230,Electrónicos,Bogotá,Barranquilla,2025-02-11,2025-02-12,TransCarga,328526,Alexander Walter Guzmán Beltrán,cancelado
+231,Gases,Bucaramanga,Medellín,2025-04-15,2025-04-16,LogiTruck,149825,Juan Jhonatan Ardila,entregado
+232,Gases,Bucaramanga,Bogotá,2025-01-02,2025-01-05,LogiTruck,94998,Yuri Posada Marín,cancelado
+233,Líquidos,Barranquilla,Bogotá,2025-04-07,2025-04-08,FastCargo,361771,Laura Lucía Arteaga,cancelado
+234,Electrónicos,Medellín,Cartagena,2025-05-03,2025-05-05,FastCargo,174595,Óscar Pabón,en tránsito
+235,Gases,Medellín,Barranquilla,2025-03-27,2025-03-29,LogiTruck,135779,Luz Patricia Erazo Pineda,en tránsito
+236,Sólidos,Bucaramanga,Cali,2025-04-08,2025-04-10,TransCarga,381783,Aldair Juan González,cancelado
+237,Alimentos,Cartagena,Barranquilla,2025-02-09,2025-02-14,FastCargo,160938,Rafael Raúl Bedoya Polo,en tránsito
+238,Gases,Medellín,Barranquilla,2025-05-04,2025-05-09,EnvioYA,234210,José Ortega,entregado
+239,Líquidos,Barranquilla,Cali,2025-05-02,2025-05-04,EnvioYA,164504,Lucía Amanda Ocampo,cancelado
+240,Gases,Medellín,Barranquilla,2025-03-30,2025-03-31,EnvioYA,385050,Fanny González Ocampo,en tránsito
+241,Electrónicos,Bucaramanga,Bogotá,2025-03-30,2025-03-31,FastCargo,204738,Julia Escobar Carvajal,entregado
+242,Sólidos,Bucaramanga,Barranquilla,2025-03-22,2025-03-26,LogiTruck,222721,Luz María Caro Londoño,cancelado
+243,Alimentos,Cali,Barranquilla,2025-02-14,2025-02-15,LogiTruck,293036,Luz Loaiza,en tránsito
+244,Electrónicos,Bogotá,Cali,2025-01-11,2025-01-13,EnvioYA,265393,Kelly González,cancelado
+245,Alimentos,Cali,Bogotá,2025-04-24,2025-04-28,LogiTruck,144117,Luis González Camacho,cancelado
+246,Sólidos,Bucaramanga,Medellín,2024-12-26,2024-12-30,EnvioYA,460723,Omaira García González,en tránsito
+247,Líquidos,Medellín,Barranquilla,2025-04-26,2025-04-29,LogiTruck,236908,Luis García,entregado
+248,Gases,Cali,Cartagena,2024-11-21,2024-11-25,TransCarga,474020,Francisco Luis Gómez Álvarez,cancelado
+249,Sólidos,Barranquilla,Bogotá,2025-05-07,2025-05-10,EnvioYA,171902,Edwin Orlando Mena Andrade,entregado
+250,Alimentos,Barranquilla,Bucaramanga,2025-05-02,2025-05-03,EnvioYA,140924,Ana Cindy Guerrero González,cancelado
+251,Líquidos,Bucaramanga,Barranquilla,2024-12-24,2024-12-26,TransCarga,388932,Patricia Lorena Medina,cancelado
+252,Sólidos,Cali,Cartagena,2024-12-16,2024-12-21,LogiTruck,191220,Luis Bustos Marín,en tránsito
+253,Alimentos,Barranquilla,Cali,2025-04-16,2025-04-21,EnvioYA,429894,Alejandro Giraldo,entregado
+254,Sólidos,Barranquilla,Medellín,2024-11-17,2024-11-21,TransCarga,239671,Carlos Danilo Mercado Gutiérrez,cancelado
+255,Alimentos,Barranquilla,Cartagena,2025-01-20,2025-01-22,TransCarga,226759,Rosa Toro,cancelado
+256,Alimentos,Bogotá,Cali,2025-03-30,2025-04-02,FastCargo,352997,Eduardo Alzate Cuesta,cancelado
+257,Líquidos,Medellín,Barranquilla,2025-01-26,2025-01-27,LogiTruck,301277,Yuli Prieto Mena,en tránsito
+258,Sólidos,Bucaramanga,Bogotá,2024-11-08,2024-11-12,LogiTruck,217615,Daniel Óscar Ríos,entregado
+259,Alimentos,Cali,Barranquilla,2025-03-22,2025-03-23,TransCarga,108658,Doris Cantillo,entregado
+260,Gases,Cali,Cartagena,2025-02-12,2025-02-15,LogiTruck,305211,Ricardo Reyes,cancelado
+261,Sólidos,Cali,Barranquilla,2025-02-04,2025-02-09,FastCargo,199266,Enrique Arturo Parra Palacios,entregado
+262,Gases,Barranquilla,Cartagena,2025-01-28,2025-02-01,CargaExpress,247063,Javier Germán Miranda Cuesta,entregado
+263,Sólidos,Cartagena,Medellín,2025-03-26,2025-03-31,LogiTruck,316567,Lilian Miriam Mejía Lara,entregado
+264,Electrónicos,Barranquilla,Cali,2025-03-10,2025-03-15,TransCarga,389446,Luis Juan Molano,en tránsito
+265,Electrónicos,Medellín,Barranquilla,2025-02-17,2025-02-22,TransCarga,118476,Henry William Zapata,en tránsito
+266,Gases,Cartagena,Bogotá,2025-02-12,2025-02-17,CargaExpress,307548,Andrés López González,entregado
+267,Electrónicos,Cartagena,Medellín,2025-05-01,2025-05-02,TransCarga,126057,María Azucena Córdoba,entregado
+268,Gases,Cartagena,Barranquilla,2025-02-07,2025-02-09,TransCarga,233301,Jesús Guzmán,entregado
+269,Sólidos,Barranquilla,Medellín,2025-03-31,2025-04-02,FastCargo,91986,Nohora Alejandra Arenas,entregado
+270,Gases,Cartagena,Barranquilla,2025-03-22,2025-03-27,EnvioYA,269418,Vicente Cano,en tránsito
+271,Líquidos,Bucaramanga,Cali,2025-04-01,2025-04-06,EnvioYA,203413,Segundo Samuel Sánchez,cancelado
+272,Alimentos,Bogotá,Barranquilla,2024-12-29,2025-01-01,TransCarga,320705,Andrés Ortiz Velásquez,entregado
+273,Alimentos,Bucaramanga,Medellín,2024-12-11,2024-12-16,EnvioYA,179026,Germán Héctor Vásquez Rodríguez,cancelado
+274,Alimentos,Cali,Medellín,2025-03-06,2025-03-08,TransCarga,113116,Eduardo Ariel Herrera Zapata,entregado
+275,Electrónicos,Barranquilla,Cartagena,2025-01-18,2025-01-21,CargaExpress,248530,Patricia Arango Martínez,cancelado
+276,Líquidos,Cartagena,Barranquilla,2024-11-30,2024-12-04,FastCargo,405977,Esther Valencia Cárdenas,cancelado
+277,Gases,Cartagena,Bogotá,2025-04-02,2025-04-06,EnvioYA,104425,Luis Fabián Ceballos Arboleda,cancelado
+278,Electrónicos,Bucaramanga,Cali,2025-01-01,2025-01-06,TransCarga,155613,Hernán Carlos Rincón,en tránsito
+279,Líquidos,Barranquilla,Medellín,2025-04-15,2025-04-19,CargaExpress,278186,César Danilo Vásquez González,en tránsito
+280,Líquidos,Cali,Medellín,2024-12-13,2024-12-16,EnvioYA,421530,Inés Cristina Gutiérrez Cruz,en tránsito
+281,Electrónicos,Medellín,Cartagena,2025-01-19,2025-01-22,TransCarga,210693,Gloria Valencia,cancelado
+282,Electrónicos,Cali,Bucaramanga,2025-03-06,2025-03-07,TransCarga,361448,Daniel Giraldo Vergara,en tránsito
+283,Alimentos,Bucaramanga,Cali,2024-11-13,2024-11-17,FastCargo,238267,Andrea Sandra Torres,entregado
+284,Líquidos,Bucaramanga,Cartagena,2025-01-11,2025-01-15,FastCargo,454669,Alfonso Franco González,entregado
+285,Alimentos,Medellín,Bogotá,2025-04-23,2025-04-24,TransCarga,407171,Margarita Adriana Velasco,cancelado
+286,Líquidos,Cali,Bucaramanga,2024-11-15,2024-11-16,CargaExpress,153137,Elena Sandra Márquez Jaramillo,en tránsito
+287,Sólidos,Bucaramanga,Barranquilla,2025-02-27,2025-03-01,EnvioYA,326920,Lady Cardona,entregado
+288,Alimentos,Bogotá,Medellín,2025-04-04,2025-04-09,FastCargo,208122,Jesús Jesús Cabrera Hernández,cancelado
+289,Gases,Cartagena,Bogotá,2025-01-17,2025-01-19,EnvioYA,221619,Alfredo Puentes Prieto,entregado
+290,Gases,Bucaramanga,Cali,2025-04-18,2025-04-23,EnvioYA,493815,Miguel Ramírez,entregado
+291,Sólidos,Barranquilla,Cali,2024-12-06,2024-12-09,FastCargo,425865,Milena Leticia Acosta,en tránsito
+292,Gases,Barranquilla,Bogotá,2024-12-17,2024-12-20,FastCargo,421675,Jenny Velásquez,en tránsito
+293,Gases,Cartagena,Bucaramanga,2024-12-15,2024-12-16,LogiTruck,222888,Pedro Jhon Torres,en tránsito
+294,Líquidos,Cartagena,Bucaramanga,2024-12-25,2024-12-28,CargaExpress,300716,Arturo Álvarez Hernández,cancelado
+295,Sólidos,Medellín,Barranquilla,2024-11-21,2024-11-22,LogiTruck,141884,Martha Vanegas,entregado
+296,Alimentos,Medellín,Cali,2024-12-22,2024-12-25,CargaExpress,99624,Norma Ávila Barbosa,entregado
+297,Alimentos,Medellín,Bogotá,2025-02-14,2025-02-15,EnvioYA,164216,Brayan Jhon Hernández,cancelado
+298,Electrónicos,Bucaramanga,Medellín,2025-02-01,2025-02-03,LogiTruck,297923,Brian Eduardo Córdoba,cancelado
+299,Gases,Medellín,Bucaramanga,2025-01-22,2025-01-24,TransCarga,178970,Gloria González,en tránsito
+300,Sólidos,Barranquilla,Cartagena,2025-02-08,2025-02-13,LogiTruck,102667,César Vargas,entregado
