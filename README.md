@@ -92,3 +92,15 @@ Instala Graphviz desde [https://graphviz.gitlab.io/download/](https://graphviz.g
 ---
 
 ## Ejemplo de Salida
+   ```
+   --- Ejecutando script15.dsl ---
+
+1️⃣ Análisis Léxico (Tokens generados):
+[STRING] ["datos.csv"] [NUMBER] [WS] [column] ["empresa_transportadora"] [==] ["LogiTruck"] [NUMBER] [WS] [column] ["tipo_carga"] [==] ["Alimentos"] [NUMBER] [aggregate] [count] [column] ["id_transporte"] [NUMBER] [print] [NUMBER]
+
+2️⃣ Análisis Sintáctico (Árbol de sintaxis):
+Árbol de sintaxis generado: C:\Users\GROUP POWER\Desktop\Trabajos\Avance_Natha\Gestion_Transporte\arboles\arbol_script15.pdf
+
+count(id_transporte) = 16
+--- Fin de script15.dsl ---
+   ```
